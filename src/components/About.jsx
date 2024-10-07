@@ -1,8 +1,11 @@
+// images import
+
 import about from '../assets/images/about/about-image-01.jpg';
 import about2 from '../assets/images/about/about-image-02.jpg';
-import Svg from "./Svg";
-import Svgtwo from '../assets/svg/Svgtwo';
-import Svgthree from '../assets/svg/Svgthree';
+
+// svg import
+
+import { Svg, Svgtwo, Svgthree } from '../assets/svg/Icons'
 import React from 'react'
 
 function About() {

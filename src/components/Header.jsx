@@ -9,8 +9,6 @@ function Header() {
             <a href="index.html" className="navbar-logo block w-60 max-w-full px-4">
               <img src={logo} alt="logo" className="header-logo h-12" />
             </a>
-  
-  
             <ul className="hidden lg:flex ">
               <li className="group relative">
                 <a href="#home"
@@ -37,9 +35,8 @@ function Header() {
                   Blog
                 </a>
               </li>
-  
             </ul>
-  
+            
             <div className="sm:flex">
               <a href="signin.html"
                 className="flex-1 loginBtn px-[22px] py-2 text-base font-medium text-white hover:opacity-70">
