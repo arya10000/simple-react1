@@ -1,5 +1,5 @@
-import { LocationIcon, MailIcon} from "../../assets/svg/Icons"
-import Talk from "./talk";
+
+import Talk from "./Talk"
 import Ourlocation from "./Ourlocation";
 
 import React from 'react'
