@@ -2,7 +2,7 @@
 import React from "react";
 
 // importing svg 
-import { BedIcon, BathIcon} from '../assets/svg/Icons'
+import { BedIcon, BathIcon} from '../../assets/svg/Icons'
 
 const properties = [
   {
